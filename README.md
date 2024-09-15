@@ -1,1 +1,1 @@
-# -renci-Bilgi-Sistemi-Odev-Sozlu
+# Ogrenci-Bilgi-Sistemi-Odev-Sozlu
